@@ -27,7 +27,7 @@ The Covid-19 Dashboard is a web application built using Dash, Plotly, and Bootst
   ```bash
   pip install dash plotly pandas
   ```
-3. Download the necessary CSV files (**IndividualDetails.csv**, **covid_19_india.csv**, **AgeGroupDetails.csv**) and place them in the project directory.
+3. Download the necessary CSV files ( **IndividualDetails.csv**, **covid_19_india.csv**, **AgeGroupDetails.csv** ) and place them in the project directory.
 
 ## Usage
 1. Run the Dash application
@@ -43,7 +43,12 @@ The Covid-19 Dashboard is a web application built using Dash, Plotly, and Bootst
 - **AgeGroupDetails.csv:** Contains case distribution data by age group.
 
 ## Customization
-- You can customize the appearance of the dashboard by modifying the CSS classes and styles in the **app.py**file.
+- You can customize the appearance of the dashboard by modifying the CSS classes and styles in the **app.py** file.
 - To add more features, explore the Plotly documentation for additional graph types and customization options.
+
+## View 
+https://github.com/user-attachments/assets/8ec7c3b7-fef8-474f-a9a6-403271f366f8
+
+
 
   
